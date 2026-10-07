@@ -10,5 +10,5 @@ It will always assign a random name.
 ### How to run it?
 
 ```py
-python defrename.py
+python rename.py
 ```
